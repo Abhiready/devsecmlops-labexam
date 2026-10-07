@@ -1,6 +1,8 @@
 # DevSecMLOps Lab Exam
 
 **Name:** Abhishek Reddy  
+**Roll No:** 23WU0101133
+**Section:** CSE Rhinos Core
 **Course:** DevSecMLOps Lab, B.Tech CSE (2023–2027), Woxsen University  
 **Experiments:** Exp 6 (ML Pipeline with Access Control) and Exp 8 (Vulnerability Scanning in the ML Pipeline)
 
